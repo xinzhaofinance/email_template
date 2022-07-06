@@ -1,0 +1,48 @@
+html {
+    
+    
+   margin: 0;
+   padding: 0px;
+}
+body {
+   
+   margin: 0;
+   padding: 0px;
+   background-color: white;
+  
+}
+
+.row{
+   height: 100%;
+}
+
+#my-container{
+   height: 100vh;
+}
+/*LEFTMOST COLUMN*/
+.sidebar {
+  
+}
+.compose-button {
+   margin: 30px;
+}
+/*User circle and text spacing*/
+/* .user-circle {
+   display:flex;
+   flex-direction: row;
+   justify-content: flex-start;
+   align-items: center;
+   align-content: space-between;
+} */
+/*MIDDLE COLUMN*/
+
+.right-align-time {
+   text-align: right;
+}
+#highlighted-email-box {
+   background-color: #f8f9fa;
+   padding: 10px;
+   margin: 0px;
+}
+
+
